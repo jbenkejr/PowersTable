@@ -1,0 +1,11 @@
+C:\Users\jbenk\Desktop\bootcamp2019\PowersTable2\bin\Debug\netcoreapp2.2\PowersTable2.deps.json
+C:\Users\jbenk\Desktop\bootcamp2019\PowersTable2\bin\Debug\netcoreapp2.2\PowersTable2.runtimeconfig.json
+C:\Users\jbenk\Desktop\bootcamp2019\PowersTable2\bin\Debug\netcoreapp2.2\PowersTable2.runtimeconfig.dev.json
+C:\Users\jbenk\Desktop\bootcamp2019\PowersTable2\bin\Debug\netcoreapp2.2\PowersTable2.dll
+C:\Users\jbenk\Desktop\bootcamp2019\PowersTable2\bin\Debug\netcoreapp2.2\PowersTable2.pdb
+C:\Users\jbenk\Desktop\bootcamp2019\PowersTable2\obj\Debug\netcoreapp2.2\PowersTable2.csprojAssemblyReference.cache
+C:\Users\jbenk\Desktop\bootcamp2019\PowersTable2\obj\Debug\netcoreapp2.2\PowersTable2.csproj.CoreCompileInputs.cache
+C:\Users\jbenk\Desktop\bootcamp2019\PowersTable2\obj\Debug\netcoreapp2.2\PowersTable2.AssemblyInfoInputs.cache
+C:\Users\jbenk\Desktop\bootcamp2019\PowersTable2\obj\Debug\netcoreapp2.2\PowersTable2.AssemblyInfo.cs
+C:\Users\jbenk\Desktop\bootcamp2019\PowersTable2\obj\Debug\netcoreapp2.2\PowersTable2.dll
+C:\Users\jbenk\Desktop\bootcamp2019\PowersTable2\obj\Debug\netcoreapp2.2\PowersTable2.pdb
